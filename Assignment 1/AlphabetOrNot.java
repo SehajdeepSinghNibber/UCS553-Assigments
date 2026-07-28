@@ -13,5 +13,7 @@ public class AlphabetOrNot {
             System.out.println(isAlpha+ " is not an Alphabet");
         }
 
+        sc.close();
+
     }    
 }
